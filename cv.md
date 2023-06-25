@@ -21,7 +21,7 @@ Employed full-time as a _firmware engineer_ in the biomedical field. Main tasks 
 6. Middleware development (Go, gRPC protocol)
 7. 3D machine simulation rendering (Go, g3n-engine)  
 
-* [**BBM Spa**](https://www.bbm-railway.com/) [08/2022-09/2022]  
+* [**BBM SPA**](https://www.bbm-railway.com/) [08/2022-09/2022]  
 Employed as an automation engineer in the railway division. My tasks ranged from PLC programming, hydraulic/electric schematics analysis and HMI development using LabView. My journey with this company was short given I did not fit in the slightest with the mindset (and the technology platform)
 
 * [**Euclidlabs** ](https://www.euclidlabs.it/)[04/2022-07/2022]  
@@ -53,7 +53,7 @@ Thesis title: _Reverse engineering of CAN messages for terminal container moveme
 * Senior figures willing to share knowledge and feedback (and do some code review)
 * Learn more deeply about Linux embedded, especially the driver interface
 * Deepen my knowledge of modern system programming languages (Rust/Zig)
-* Expand my competence in micro-electrics
+* Expand my competence in micro-electronics
 * Become a vim ninja
 ## Blacklist
 * _We've Always Done It This Way_
