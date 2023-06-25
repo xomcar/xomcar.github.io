@@ -29,10 +29,10 @@ Intern during the curricular internship.
 Mainly programmed ABB 6-axis industrial manipulators and learned how to hate C# and Microsoft developer experience.
 
 ## Education
-* **Master degree** [2020-2022]  
+* **Master's degree** [2020-2022]  
 **Control Systems Engineering**  
 Thesis title: _Rigidity theory in presence of noise for localization and control of multiagent systems_
-* **Bachelor degree** [2020-2022]  
+* **Bachelor's degree** [2020-2022]  
 **Informatics Engineering**  
 Thesis title: _Reverse engineering of CAN messages for terminal container movement machinery_
 ## Hard skills
