@@ -24,7 +24,7 @@ Employed full-time as a _firmware engineer_ in the biomedical field. Main tasks 
 * [**BBM SPA**](https://www.bbm-railway.com/) [08/2022-09/2022]  
 Employed as an automation engineer in the railway division. My tasks ranged from PLC programming, hydraulic/electric schematics analysis and HMI development using LabView. My journey with this company was short given I did not fit in the slightest with the mindset (and the technology platform)
 
-* [**Euclidlabs** ](https://www.euclidlabs.it/)[04/2022-07/2022]  
+* [**Euclidlabs**](https://www.euclidlabs.it/)[04/2022-07/2022]  
 Intern during the curricular internship.
 Mainly programmed ABB 6-axis industrial manipulators and learned how to hate C# and Microsoft developer experience.
 
