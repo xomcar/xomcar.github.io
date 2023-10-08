@@ -11,7 +11,7 @@ I am currently employed [@M31](https://www.m31.com/) working as a full-time firm
 
 [Click here](/cv) to see the full CV, and [here](/cv.pdf) to download a printable version.
 
-The creator of this Jekyll template also shipped a [blog](/posts), but I don't think you will find anything relevant in it for the time being.  
+The creator of this Jekyll template also shipped a [blog](/posts), check it out if you want! 
 
 
 

@@ -1,1 +1,0 @@
-# Using Rust for embedded development on STM32 platform: the journey starts
