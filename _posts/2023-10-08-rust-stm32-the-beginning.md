@@ -9,7 +9,7 @@ This morning I got tired of reading yet another Linkedin post regarding this tre
 
 # The objective
 The idea was that of being able to setup a simple [Rust] application to run on an STM32 processor.
-What I got to at the end is the ability to integrate such application with building/debugging capabilities fully integrated in [Visual Studio Code].
+What I got to at the end is the ability to run such application with building/debugging capabilities fully integrated in [Visual Studio Code].
 
 # The equipment
 My host machine is Macbook Air M2 (ARM-based platform), and I will be using a Nucleo-64 [STM32L476] development board I borrowed from work.
@@ -151,6 +151,7 @@ If all is well, by continuing, the terminal where openocd is open shall now show
 **Welcome to the embedded rust world!**
 
 # Extra: setting up visual studio debugging
+Install the [cortex-debug] extension.
 Add the following configuration to the `.vscode/tasks.json` file
 ```json
 {
@@ -176,8 +177,8 @@ Add the following configuration to the `.vscode/tasks.json` file
 ```
 <br>
 
-This should be it. If you proceed run the debug configuration of vscode, you shall observe the
-debug prints on the `gdb-server` terminal which just spawned. Breaking points, variables, watch, all should be fine and dandy and working flawlessly.
+This should be it. If you proceed running the debug configuration in vscode, you shall observe the
+debug prints on the `gdb-server` terminal which just spawned. Breaking points, variables, watches: all should be fine and dandy and working flawlessly.
 
 [Rust]: https://www.rust-lang.org/
 [Visual Studio Code]: https://code.visualstudio.com/
@@ -187,3 +188,4 @@ debug prints on the `gdb-server` terminal which just spawned. Breaking points, v
 [openocd]: https://openocd.org/
 [gdb]: https://www.sourceware.org/gdb/
 [cargo-generate]: https://github.com/cargo-generate/cargo-generate
+[cortex-debug]: https://github.com/Marus/cortex-debug
