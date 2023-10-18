@@ -7,8 +7,15 @@ title: CV
 {% include contact.html %}
 
 ## Profile
-I am a serious and diligent person with excellent analytical skills and an innate critical mindset. I am accustomed to problem-solving and troubleshooting. I enjoy spending hours debugging code and have a strong interest in the fields of computer vision, computer graphics, and automation, which allow me to satisfy my need to simplify every process.
-
+I am a precise person, motivated and easily engaged in new projects, ideas and technologies.
+Hard working and meticulous, great gregarious in a team context, with flashes of
+leadership when needed.
+Ready to discuss any and all decisions, being them mine or someone else’s.
+Capable of retrieving information by myself and diligent in learning and keeping up the
+pace.
+I have high consideration of my potential as a problem solver, and consider myself a
+righteous individual; I embrace humility and respect my limits and the ones of people
+around me.
 ## Work experience
 
 * [**M31 SRL**](https://www.m31.com/) [10/2022 - Current]  
@@ -31,19 +38,18 @@ Mainly programmed ABB 6-axis industrial manipulators and learned how to hate C# 
 ## Education
 * **Master's degree** [2020-2022]  
 **Control Systems Engineering**  
-Thesis title: _Rigidity theory in presence of noise for localization and control of multiagent systems_
+_Rigidity theory in presence of noise for localization and control of multiagent systems_
 * **Bachelor's degree** [2020-2022]  
 **Informatics Engineering**  
-Thesis title: _Reverse engineering of CAN messages for terminal container movement machinery_
+_Reverse engineering of CAN messages for terminal container movement machinery_
 ## Hard skills
 * Go programming language
 * C programming language
 * Python programming language
-* Usage and maintenance of Linux OS
+* Usage and maintenance of embedded Linux OS (buildroot)
 * Bash scripting
 * Prototyping on Matlab/Simulink
-* Documentation in markdown/latex
-* Basic knowledge of OpenCV and vision algorithms
+* Markdown/latex documentation
 ## Soft skills
 * Independent in retrieving information and in finding solutions
 * Works nicely in a team
@@ -51,7 +57,7 @@ Thesis title: _Reverse engineering of CAN messages for terminal container moveme
 * Can organize my work to respect deadlines
 ## Wishlist
 * Senior figures willing to share knowledge and feedback (and do some code review)
-* Learn more deeply about Linux embedded, especially the driver interface
+* Learn even more about Linux embedded
 * Deepen my knowledge of modern system programming languages (Rust/Zig)
 * Expand my competence in micro-electronics
 * Become a vim ninja
