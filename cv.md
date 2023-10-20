@@ -18,7 +18,7 @@ righteous individual; I embrace humility and respect my limits and the ones of p
 around me.
 ## Work experience
 
-* [**M31 SRL**](https://www.m31.com/) [10/2022 - Current]  
+[**M31 SRL**](https://www.m31.com/) [10/2022 - Current]  
 Employed full-time as a _firmware engineer_ in the biomedical field. Main tasks involve:
 1. Feature integration, bug-fixing and feature specification with customers
 2. Maintenance of buildroot-based Linux platform based on IMX8 SoC
@@ -26,20 +26,24 @@ Employed full-time as a _firmware engineer_ in the biomedical field. Main tasks 
 4. Middleware development (C)
 5. GCODE development (path planning etc)
 6. Middleware development (Go, gRPC protocol)
-7. 3D machine simulation rendering (Go, g3n-engine)  
+7. 3D machine simulation rendering (Go, g3n-engine)
 
-* [**BBM SPA**](https://www.bbm-railway.com/) [08/2022-09/2022]  
-Employed as an automation engineer in the railway division. My tasks ranged from PLC programming, hydraulic/electric schematics analysis and HMI development using LabView. My journey with this company was short given I did not fit in the slightest with the mindset (and the technology platform)
 
-* [**Euclidlabs**](https://www.euclidlabs.it/) [04/2022-07/2022]  
-Intern during the curricular internship.
-Mainly programmed ABB 6-axis industrial manipulators and learned how to hate C# and Microsoft developer experience.
+
+[**BBM SPA**](https://www.bbm-railway.com/) [08/2022-09/2022]  
+Employed as an automation engineer in the railway division. 
+My tasks ranged from PLC programming, hydraulic/electric schematics analysis and HMI development using LabView. 
+My journey with this company was short given I did not fit in the slightest with the mindset (and the technology platform)
+
+[**Euclidlabs**](https://www.euclidlabs.it/) [04/2022-07/2022]  
+Intern during the curricular internship. Mainly programmed ABB 6-axis industrial manipulators and learned how to hate C# and Microsoft developer experience.
 
 ## Education
-* **Master's degree** [2020-2022]  
+**Master's degree** [2020-2022]  
 **Control Systems Engineering**  
 _Rigidity theory in presence of noise for localization and control of multiagent systems_
-* **Bachelor's degree** [2020-2022]  
+
+**Bachelor's degree** [2020-2022]  
 **Informatics Engineering**  
 _Reverse engineering of CAN messages for terminal container movement machinery_
 
