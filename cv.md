@@ -42,6 +42,7 @@ _Rigidity theory in presence of noise for localization and control of multiagent
 * **Bachelor's degree** [2020-2022]  
 **Informatics Engineering**  
 _Reverse engineering of CAN messages for terminal container movement machinery_
+
 ## Hard skills
 * Go programming language
 * C programming language
@@ -50,17 +51,20 @@ _Reverse engineering of CAN messages for terminal container movement machinery_
 * Bash scripting
 * Prototyping on Matlab/Simulink
 * Markdown/latex documentation
+
 ## Soft skills
 * Independent in retrieving information and in finding solutions
 * Works nicely in a team
 * Ready to face criticism
 * Can organize my work to respect deadlines
+
 ## Wishlist
 * Senior figures willing to share knowledge and feedback (and do some code review)
 * Learn even more about Linux embedded
 * Deepen my knowledge of modern system programming languages (Rust/Zig)
 * Expand my competence in micro-electronics
 * Become a vim ninja
+
 ## Blacklist
 * _We've Always Done It This Way_
 * Employ technologies due to fashion and catchphrases without a real need for them (blockchain, crypto, cloud and the like)
