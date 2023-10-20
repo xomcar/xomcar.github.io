@@ -14,4 +14,3 @@ I am currently employed [@M31](https://www.m31.com/) working as a full-time firm
 
 A [blog](/posts) is also available, check it out if you want! 
 
-{% include archive.html %}
