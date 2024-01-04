@@ -9,8 +9,8 @@ I am a technology enthusiast, a gamer, a photographer, a cyclist, and lately eve
 I am currently employed [@M31](https://www.m31.com/) working as a full-time firmware engineer.
 
 
-[Click here](https://xomcar.github.io/online-cv) to see my cv in *web* version. \
-[Click here](https://xomcar.github.io/online-cv/print) for a more *printable* version.
+[Click here](https://xomcar.github.io/cv) to see my cv in *web* version. \
+[Click here](https://xomcar.github.io/resume.pdf) for a *printable* version.
 
 A [blog](/posts) is also available, check it out if you want! 
 

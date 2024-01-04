@@ -7,28 +7,17 @@ title: CV
 {% include contact.html %}
 
 ## Profile
-I am a precise person, motivated and easily engaged in new projects, ideas and technologies.
-Hard working and meticulous, great gregarious in a team context, with flashes of
-leadership when needed.
-Ready to discuss any and all decisions, being them mine or someone else’s.
-Capable of retrieving information by myself and diligent in learning and keeping up the
-pace.
-I have high consideration of my potential as a problem solver, and consider myself a
-righteous individual; I embrace humility and respect my limits and the ones of people
-around me.
+I am a precise person, motivated and easily engaged in new projects, ideas and technologies. Hard working and meticulous, great gregarious in a team context. Ready to discuss my decisions and the ones made by those around me. Capable of retrieving information by myself and diligent in learning and keeping up the pace. I have high consideration of my potential as a problem solver, and consider myself a genuine individual. I embrace humility and respect my limits and those of my colleagues.
 ## Work experience
 
 [**M31 SRL**](https://www.m31.com/) [10/2022 - Current]  
 Employed full-time as a _firmware engineer_ in the biomedical field. Main tasks involve:
-1. Feature integration, bug-fixing and feature specification with customers
-2. Maintenance of buildroot-based Linux platform based on IMX8 SoC
-3. Firmware development (C) on STM32 chips
-4. Middleware development (C)
-5. GCODE development (path planning etc)
-6. Middleware development (Go, gRPC protocol)
-7. 3D machine simulation rendering (Go, g3n-engine)
-
-
+1. Design, development and testing of system-level software on NXP ARM embedded linux platform using gRPC framework (Go, Python)
+2. Feature specification, integration and bug-fixing for third party clients of system-level legacy software on NXP ARM embedded linux platform (C)
+3. Firmware development, debugging and maintenance on Cortex-M architecture on STM32 platform (C)
+4. Build, testing and deployment automation (Python, Bash Make Scripts, Bitbucket pipelines)
+5. Hardware functional testing and report generation
+6. Development of 3D machine digital twin using g3n-engine (OpenGL)
 
 [**BBM SPA**](https://www.bbm-railway.com/) [08/2022-09/2022]  
 Employed as an automation engineer in the railway division. 
@@ -43,18 +32,25 @@ Intern during the curricular internship. Mainly programmed ABB 6-axis industrial
 **Control Systems Engineering**  
 _Rigidity theory in presence of noise for localization and control of multiagent systems_
 
-**Bachelor's degree** [2020-2022]  
+**Bachelor's degree** [2017-2020]
 **Informatics Engineering**  
 _Reverse engineering of CAN messages for terminal container movement machinery_
 
 ## Hard skills
-* Go programming language
-* C programming language
-* Python programming language
-* Usage and maintenance of embedded Linux OS (buildroot)
-* Bash scripting
-* Prototyping on Matlab/Simulink
-* Markdown/latex documentation
+* Advance knowledge of the Go programming language
+* Advance knowledge of the gRPC framework
+* Advance knowledge of the C programming language
+* Good knowledge of the Python programming language
+* Good knowledge of microprocessors architecture and peripherals (UART, SPI, I2C, DMA, timers, interrupt, scheduling)
+* Usage of STM32 Suite (CubeIDE, CubeProgrammer, CubeMX)
+* Good knowledge of Linux OS usage and configuration
+* Good knowledge of Rust programming language
+* Basic knowledge of HTML and CSS
+* Data manipulation (matplotlib, numpy, pandas) for hardware testing and report production (markdown, latex, word, excel)
+* Discrete knowledge of computer vision methodologies (OpenCV)
+* Discrete knowledge of Matlab and Simulink (prototyping and simulation)
+* Make build system
+* Git SVN
 
 ## Soft skills
 * Independent in retrieving information and in finding solutions
@@ -63,10 +59,10 @@ _Reverse engineering of CAN messages for terminal container movement machinery_
 * Can organize my work to respect deadlines
 
 ## Wishlist
-* Senior figures willing to share knowledge and feedback (and do some code review)
+* Senior figures willing to share knowledge and feedback
 * Learn even more about Linux embedded
 * Deepen my knowledge of modern system programming languages (Rust/Zig)
-* Expand my competence in micro-electronics
+* Expand my competence in micro-electronics and firmware programming
 * Become a vim ninja
 
 ## Blacklist
