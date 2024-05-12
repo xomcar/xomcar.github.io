@@ -9,7 +9,7 @@ title: CV
 ## Profile
 I am a precise person, motivated and easily engaged in new projects, ideas and technologies. Hard working and meticulous, great gregarious in a team context. Ready to discuss my decisions and the ones made by those around me. Capable of retrieving information by myself and diligent in learning and keeping up the pace. I have high consideration of my potential as a problem solver, and consider myself a genuine individual. I embrace humility and respect my limits and those of my colleagues.
 ## Work experience
-[**Infineon Technologies AG**] [04/2024 - Current]
+[**Infineon Technologies AG**](https://www.infineon.com/) [04/2024 - Current]
 Employed full-time as a _specialist firmware developer_ in the automotive division (smart power). Development methodology ASPICE and ISO26262 compliant. Including but not limited to:
 1. Firmware Architecure and Detailed Design (Enterprise Architect) according to software requirements
 2. Firmware Design Implementation (C)
