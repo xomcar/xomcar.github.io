@@ -9,9 +9,15 @@ title: CV
 ## Profile
 I am a precise person, motivated and easily engaged in new projects, ideas and technologies. Hard working and meticulous, great gregarious in a team context. Ready to discuss my decisions and the ones made by those around me. Capable of retrieving information by myself and diligent in learning and keeping up the pace. I have high consideration of my potential as a problem solver, and consider myself a genuine individual. I embrace humility and respect my limits and those of my colleagues.
 ## Work experience
+[**Infineon Technologies AG**] [04/2024 - Current]
+Employed full-time as a _specialist firmware developer_ in the automotive division (smart power). Development methodology ASPICE and ISO26262 compliant. Including but not limited to:
+1. Firmware Architecure and Detailed Design (Enterprise Architect) according to software requirements
+2. Firmware Design Implementation (C)
+3. Firmware Unit Testing and Integration Testing (Tessy, ARMKeil)
+4. Tooling and deployment automation (Python, BAT scripts, Jenkins pipelines)
 
-[**M31 SRL**](https://www.m31.com/) [10/2022 - Current]  
-Employed full-time as a _firmware engineer_ in the biomedical field. Main tasks involve:
+[**M31 SRL**](https://www.m31.com/) [10/2022 - 04/2024]  
+Employed full-time as a _firmware engineer_ biomedical field consultancy. Main tasks involve:
 1. Design, development and testing of system-level software on NXP ARM embedded linux platform using gRPC framework (Go, Python)
 2. Feature specification, integration and bug-fixing for third party clients of system-level legacy software on NXP ARM embedded linux platform (C)
 3. Firmware development, debugging and maintenance on Cortex-M architecture on STM32 platform (C)
