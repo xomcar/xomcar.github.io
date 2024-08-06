@@ -11,7 +11,7 @@ I am a precise person, motivated and easily engaged in new projects, ideas and t
 ## Work experience
 [**Infineon Technologies AG**](https://www.infineon.com/) [04/2024 - Current]
 Employed full-time as a _senior specialist firmware developer_ in the automotive division (smart power). Development methodology ASPICE and ISO26262 compliant. Including but not limited to:
-1. Firmware bootrom architecure and design (Enterprise Architect) according to software requirements
+1. Firmware bootrom architecture and design (Enterprise Architect) according to software requirements
 2. Firmware bootrom implementation (C)
 3. Firmware unit testing and integration testing (Tessy, ARMKeil)
 4. Tooling and deployment automation (Python, BAT scripts, Jenkins)
