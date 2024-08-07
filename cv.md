@@ -38,8 +38,8 @@ Intern during the curricular internship. Mainly programmed ABB 6-axis industrial
 **Control Systems Engineering**  
 _Rigidity theory in presence of noise for localization and control of multiagent systems_
 
-**Bachelor's degree** [2017-2020]
-**Informatics Engineering**  
+**Bachelor's degree** [2017-2020]  
+**Computer Engineering**  
 _Reverse engineering of CAN messages for terminal container movement machinery_
 
 ## Hard skills
